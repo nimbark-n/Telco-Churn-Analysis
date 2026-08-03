@@ -82,6 +82,3 @@ Customer-Churn-Prediction/
 ├── models/
 └── images/
 ```
-
-
-This project is intended for educational and portfolio purposes.
