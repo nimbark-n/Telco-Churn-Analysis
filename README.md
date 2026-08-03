@@ -83,18 +83,5 @@ Customer-Churn-Prediction/
 └── images/
 ```
 
----
-
-## Future Improvements
-
-- Hyperparameter Optimization
-- Cross-Validation
-- SHAP-based Model Explainability
-- Streamlit/FastAPI Deployment
-- ML Pipeline Automation
-
----
-
-## License
 
 This project is intended for educational and portfolio purposes.
