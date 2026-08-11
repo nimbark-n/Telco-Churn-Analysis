@@ -74,7 +74,7 @@ Models were evaluated using:
 ## Repository Structure
 
 ```
-Customer-Churn-Prediction/
+Telco-Churn-Prediction/
 │
 ├── data
 ├── script
