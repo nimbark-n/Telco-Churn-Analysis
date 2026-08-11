@@ -76,9 +76,7 @@ Models were evaluated using:
 ```
 Customer-Churn-Prediction/
 │
-├── Customer_Churn_Prediction.ipynb
+├── data
+├── script
 ├── README.md
-├── requirements.txt
-├── models/
-└── images/
 ```
